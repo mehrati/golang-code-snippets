@@ -1,0 +1,1 @@
+snippets golang code for test
