@@ -1,0 +1,12 @@
+awards = ["Golden Globe"]
+bawards = true
+bcountry = true
+bgenre = true
+blanguage = true
+byear = ["2018","2017","2016","2015"]
+country = ["Australia","USA","America","england","German","Greek"]
+genre = ["Biography","Drama","Fantasy","Comedy"]
+language = ["English","Germany","France","Persian"]
+min_imdb_rating = "6.5"
+min_imdb_votes = "6500"
+year = false

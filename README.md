@@ -1,1 +1,1 @@
-snippets golang code for test
+snippets golang code
